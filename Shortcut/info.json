@@ -7,5 +7,9 @@
   "notification": {
     "title": "",
     "text": "Dit is een tekst test"
+  },
+  
+  "supported-devices": {
+    "test": "test"
   }
 }
