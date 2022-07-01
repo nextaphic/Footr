@@ -1,9 +1,19 @@
+// Calc width and height
+let scale = window.devicePixelRatio;
+let width = window.screen.width * scale;
+let height = window.screen.height * scale;
+let ratio = height / width;
+
 // Relative to width
-const LOGO_PADDING = 26/957;
-const CONT_WIDTH = 930/957;
-const RADIUS = 40/957;
+const LOGO_PADDING = width * 26/957;
+const CONT_WIDTH = width * 930/957;
+const RADIUS = width * 40/957;
 
 // Relative to height
-const CONT_HEIGHT = 124/2072;
-const CONT_Y = 575/2072;
-const INFO_HEIGHT = 72/2072;
+const CONT_HEIGHT = height * 124/2072;
+const CONT_Y = height * 575/2072;
+const INFO_HEIGHT = height * 72/2072;
+
+// Is Touch ID device?
+let IS_TOUCHID = false;
+if (ratio < 2.11) IS_TOUCHID = true;
