@@ -1,0 +1,9 @@
+// Relative to width
+const LOGO_PADDING = 26/957;
+const CONT_WIDTH = 930/957;
+const RADIUS = 40/957;
+
+// Relative to height
+const CONT_HEIGHT = 124/2072;
+const CONT_Y = 575/2072;
+const INFO_HEIGHT = 72/2072;
