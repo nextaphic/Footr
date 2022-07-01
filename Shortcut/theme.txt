@@ -22,3 +22,7 @@ if (ratio < 2.11) IS_TOUCHID = true;
 let FONTSIZE = 43;
 let FONTSIZE_SMALL = 43;
 if (width == 640 && height == 1136) { FONTSIZE = 25; FONTSIZE_SMALL = 25; }
+else if (width == 750 && height == 1334) { FONTSIZE = 29; FONTSIZE_SMALL = 29; }
+else if (width == 1080 && height == 1920) { FONTSIZE = 40; FONTSIZE_SMALL = 40; }
+else if (width == 828 && height == 1792) { FONTSIZE = 32; FONTSIZE_SMALL = 32; }
+else if (width == 1080 && height == 2340) { FONTSIZE = 42; FONTSIZE_SMALL = 42; }
