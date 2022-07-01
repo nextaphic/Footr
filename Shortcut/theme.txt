@@ -19,8 +19,8 @@ let IS_TOUCHID = false;
 if (ratio < 2.11) IS_TOUCHID = true;
 
 // Define font size
-let FONTSIZE = 43;
-let FONTSIZE_SMALL = 43;
+let FONTSIZE = 0;
+let FONTSIZE_SMALL = 0;
 if (width == 640 && height == 1136) { FONTSIZE = 25; FONTSIZE_SMALL = 25; } // iPhone 5, iPhone 5S, iPhone 5C, iPhone SE 1
 else if (width == 750 && height == 1334) { FONTSIZE = 29; FONTSIZE_SMALL = 29; } // iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE 2
 else if (width == 1242 && height == 2208) { FONTSIZE = 43; FONTSIZE_SMALL = 43; } // iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus
