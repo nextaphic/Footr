@@ -17,3 +17,8 @@ const INFO_HEIGHT = height * 72/2072;
 // Is Touch ID device?
 let IS_TOUCHID = false;
 if (ratio < 2.11) IS_TOUCHID = true;
+
+// Define font size
+let FONTSIZE = 43;
+let FONTSIZE_SMALL = 43;
+if (width == 640 && height == 1136) { FONTSIZE = 25; FONTSIZE_SMALL = 25; }
