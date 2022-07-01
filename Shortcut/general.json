@@ -10,6 +10,85 @@
   },
   
   "supported-devices": {
-    "test": "test"
+    "640x1136": {
+      "members": ["iPhone 5", "iPhone 5S", "iPhone 5C", "iPhone SE 1"],
+      "width": 640,
+      "height": 1136,
+      "fontsize": 25,
+      "fontsize-small": 25,
+      "touchid": "true",
+    },
+    "750x1334": {
+      "members": ["iPhone 6", "iPhone 6s", "iPhone 7", "iPhone 8", "iPhone SE 2"],
+      "width": 750,
+      "height": 1334,
+      "fontsize": 29,
+      "fontsize-small": 29,
+      "touchid": "true",
+    },
+    "1242x2208": {
+      "members": ["iPhone 6 Plus", "iPhone 6s Plus", "iPhone 7 Plus"],
+      "width": 1242,
+      "height": 2208,
+      "fontsize": 43,
+      "fontsize-small": 43,
+      "touchid": "true",
+    },
+    "1080x1920": {
+      "members": ["iPhone 8 Plus"],
+      "width": 1080,
+      "height": 1920,
+      "fontsize": 40,
+      "fontsize-small": 40,
+      "touchid": "true",
+    },
+    "1125x2436": {
+      "members": ["iPhone X", "iPhone XS", "iPhone 11 Pro"],
+      "width": 1125,
+      "height": 2436,
+      "fontsize": 43,
+      "fontsize-small": 43,
+      "touchid": "false",
+    },
+    "828x1792": {
+      "members": ["iPhone XR", "iPhone 11"],
+      "width": 828,
+      "height": 1792,
+      "fontsize": 32,
+      "fontsize-small": 32,
+      "touchid": "false",
+    },
+    "1242x2688": {
+      "members": ["iPhone XS Max", "iPhone 11 Pro Max"],
+      "width": 1242,
+      "height": 2688,
+      "fontsize": 43,
+      "fontsize-small": 43,
+      "touchid": "false",
+    },
+    "1170x2532": {
+      "members": ["iPhone 12", "iPhone 12 Pro", "iPhone 13", "iPhone 13 Pro"],
+      "width": 1170,
+      "height": 2532,
+      "fontsize": 43,
+      "fontsize-small": 43,
+      "touchid": "false",
+    },
+    "1284x2778": {
+      "members": ["iPhone 12 Pro Max", "iPhone 13 Pro Max"],
+      "width": 1284,
+      "height": 2778,
+      "fontsize": 43,
+      "fontsize-small": 43,
+      "touchid": "false",
+    },
+    "1080x2340": {
+      "members": ["iPhone 12 mini", "iPhone 13 mini"],
+      "width": 1080,
+      "height": 2340,
+      "fontsize": 42,
+      "fontsize-small": 43,
+      "touchid": "false",
+    }
   }
 }
