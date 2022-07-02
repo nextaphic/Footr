@@ -6,7 +6,7 @@ let ratio = height / width;
 
 // Relative to width
 const LOGO_PADDING = width * 26/957;
-const CONT_WIDTH = width * 930/957;
+const CONT_WIDTH = width * 830/957;
 const RADIUS = width * 40/957;
 
 // Relative to height
