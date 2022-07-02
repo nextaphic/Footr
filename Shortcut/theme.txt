@@ -35,6 +35,7 @@ else if (width == 1080 && height == 2340) { FONTSIZE = 42; FONTSIZE_SMALL = 42; 
 // Calc other variables
 const LOGO_SIZE = CONT_HEIGHT - 2 * LOGO_PADDING;
 const CONT_X = (width - CONT_WIDTH) / 2;
+const INFO_Y = CONT_Y + CONT_HEIGHT;
 const CONTINFO_HEIGHT = CONT_HEIGHT + INFO_HEIGHT;
 const INFOTEXT_Y = CONT_Y + CONT_HEIGHT + INFO_HEIGHT / 2;
 const INFOTEXT_TIME_X = CONT_X + CONT_WIDTH - (INFO_HEIGHT - FONTSIZE_SMALL) / 2;
