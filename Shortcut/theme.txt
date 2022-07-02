@@ -33,8 +33,11 @@ else if (width == 1284 && height == 2778) { FONTSIZE = 43; FONTSIZE_SMALL = 43; 
 else if (width == 1080 && height == 2340) { FONTSIZE = 42; FONTSIZE_SMALL = 42; } // iPhone 12 mini, iPhone 13 mini
 
 // Calc other variables
-const LOGO_SIZE = CONT_HEIGHT - 2 * LOGO_PADDING;
 const CONT_X = (width - CONT_WIDTH) / 2;
+const LOGO_SIZE = CONT_HEIGHT - 2 * LOGO_PADDING;
+const LOGO_Y = CONT_Y + LOGO_PADDING;
+const LOGO_HOME_X = CONT_X + LOGO_PADDING;
+const LOGO_AWAY_X = CONT_X + CONT_WIDTH - LOGO_PADDING - LOGO_SIZE;
 const INFO_Y = CONT_Y + CONT_HEIGHT;
 const CONTINFO_HEIGHT = CONT_HEIGHT + INFO_HEIGHT;
 const INFOTEXT_Y = CONT_Y + CONT_HEIGHT + INFO_HEIGHT / 2;
