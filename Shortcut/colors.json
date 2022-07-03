@@ -1,0 +1,42 @@
+{
+  "colors": "W|GR|BL|R|DR|O|Y|G|DG|B|LB|DB|P",
+  "W": "#eeeeee",
+  "GR": "#acabb1",
+  "BL": "#333333",
+  "R": "#d80027",
+  "DR": "#a2001d",
+  "O": "#ff9811",
+  "Y": "#ffda44",
+  "G": "#6da544",
+  "DG": "#496e2d",
+  "LB": "#338af3",
+  "B": "#0052b4",
+  "DB": "#002266",
+  "P": "#751a46",
+  
+  "filters": "blur(32px) saturate(172%) contrast(120%)",
+  "transform": "scale(1.27)",
+  
+  "default": {
+    "DM": {
+      "FIX Box": "rgba(15,15,18,0.7)",
+      "FIX Teams": "#ffffff",
+      "FIX Date": "#ffffff",
+      "MD Box ↑": "rgba(15,15,18,0.7)",
+      "MD Box ↓": "rgba(11,11,14,0.8)",
+      "MD Image": "#333333",
+      "MD Teams": "#ffffff",
+      "MD Time": "#ffffff"
+    },
+    "LM": {
+      "FIX Box": "rgba(240,240,243,0.7)",
+      "FIX Teams": "#000000",
+      "FIX Date": "#000000",
+      "MD Box ↑": "rgba(240,240,243,0.7)",
+      "MD Box ↓": "rgba(244,244,247,0.8)",
+      "MD Image": "#eeeeee",
+      "MD Teams": "#000000",
+      "MD Time": "#000000"
+    }
+  }
+}
