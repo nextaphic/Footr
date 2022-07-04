@@ -1,6 +1,6 @@
 {
   "COUNTRIES": "WORLD CUP 2022",
-  "1": {"name": "belgium", "short": "BEL", "fixpath": "Countries/belgium.json", "locdb": "1"},
+  "1": {"name": "belgium", "short": "BEL", "fixpath": "Countries/belgium.json", "locdb": "1", "tran": 1},
   "2": {"name": "france", "short": "FRA", "fixpath": "Countries/france.json", "locdb": "1"},
   "3": {"name": "croatia", "short": "CRO", "fixpath": "Countries/croatia.json", "locdb": "1"},
   "6": {"name": "brazil", "short": "BRA", "fixpath": "Countries/brazil.json", "locdb": "1"},
