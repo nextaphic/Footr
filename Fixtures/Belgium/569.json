@@ -1,29 +1,29 @@
 {
-  “fixtures”: [
+  "fixtures": [
     {
-      “date”: “2022-07-09T12:00:00+00:00”,
-      “home”: {
-        “id”: “569”,
-        “name”: “Club Brugge KV”,
-        “logo”: “https:\/\/media.api-sports.io\/football\/teams\/569.png”
+      "date": "2022-07-09T12:00:00+00:00",
+      "home": {
+        "id": "569",
+        "name": "Club Brugge KV",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/569.png"
       },
-      “away”: {
-        “id”: “1”,
-        “name”: “Belgian Red Devils”,
-        “logo”: “https:\/\/media.api-sports.io\/football\/teams\/1.png”
+      "away": {
+        "id": "1",
+        "name": "Belgian Red Devils",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/1.png"
       }
     },
     {
-      “date”: “2022-07-09T12:00:00+00:00”,
-      “home”: {
-        “id”: “569”,
-        “name”: “Club Brugge KV”,
-        “logo”: “https:\/\/media.api-sports.io\/football\/teams\/569.png”
+      "date": "2022-07-12T12:00:00+00:00",
+      "home": {
+        "id": "569",
+        "name": "Club Brugge KV",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/569.png"
       },
-      “away”: {
-        “id”: “1”,
-        “name”: “Belgian Red Devils”,
-        “logo”: “https:\/\/media.api-sports.io\/football\/teams\/1.png”
+      "away": {
+        "id": "1",
+        "name": "Belgian Red Devils",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/1.png"
       }
     }
   ]
