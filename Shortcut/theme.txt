@@ -39,9 +39,6 @@ else if (width == 1284 && height == 2778) { FONTSIZE = 43; } // iPhone 12 Pro Ma
 else if (width == 1080 && height == 2340) { FONTSIZE = 42; } // iPhone 12 mini, iPhone 13 mini
 FONTSIZE_SMALL = (33/35) * FONTSIZE;
 
-// Special cases
-
-
 // Calc other variables
 const CONT_X = (width - CONT_WIDTH) / 2;
 const LOGO_SIZE = Math.round(CONT_HEIGHT - 2 * LOGO_PADDING);
