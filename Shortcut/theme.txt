@@ -11,8 +11,14 @@ const RADIUS = width * 40/957;
 
 // Relative to height
 const CONT_HEIGHT = height * 124/2072;
-const CONT_Y = height * 575/2072;
 const INFO_HEIGHT = height * 72/2072;
+
+// Relative to height and position
+let CONT_Y = 0;
+if (POSITION == 1 && !IS_MATCHDAY) { CONT_Y = height * 1650/2072; }
+else if (POSITION == 1 && IS_MATCHDAY) { CONT_Y = height * 1650/2072 - INFO_HEIGHT; }
+else if (POSITION == 2) { CONT_Y = height * 575/2072; }
+else if (POSITION == 3) { CONT_Y = height * 718/2072; }
 
 // Is Touch ID device?
 let IS_TOUCHID = false;
@@ -32,6 +38,9 @@ else if (width == 1170 && height == 2532) { FONTSIZE = 43; } // iPhone 12, iPhon
 else if (width == 1284 && height == 2778) { FONTSIZE = 43; } // iPhone 12 Pro Max, iPhone 13 Pro Max
 else if (width == 1080 && height == 2340) { FONTSIZE = 42; } // iPhone 12 mini, iPhone 13 mini
 FONTSIZE_SMALL = (33/35) * FONTSIZE;
+
+// Special cases
+
 
 // Calc other variables
 const CONT_X = (width - CONT_WIDTH) / 2;
