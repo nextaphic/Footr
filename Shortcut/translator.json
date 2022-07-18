@@ -21,10 +21,12 @@
   "3rd Place Final": {"english": "Final (3rd place)", "dutch": "Kleine finale"},
   
   "argentina": {"english": "Argentina", "dutch": "Argentinië"},
+  "australia": {"english": "Australia", "dutch": "Australië"},
   "belgium": {"english": "Belgium", "dutch": "België"},
   "brazil": {"english": "Brazil", "dutch": "Brazilië"},
   "cameroon": {"english": "Cameroon", "dutch": "Kameroen"},
   "canada": {"english": "Canada", "dutch": "Canada"},
+  "costarica": {"english": "Costa Rica", "dutch": "Costa Rica"},
   "croatia": {"english": "Croatia", "dutch": "Kroatië"},
   "denmark": {"english": "Denmark", "dutch": "Denemarken"},
   "ecuador": {"english": "Ecuador", "dutch": "Ecuador"},
@@ -48,5 +50,6 @@
   "switzerland": {"english": "Switzerland", "dutch": "Zwitserland"},
   "tunisia": {"english": "Tunisia", "dutch": "Tunesië"},
   "uruguay": {"english": "Uruguay", "dutch": "Uruguay"},
-  "usa": {"english": "United States", "dutch": "Verenigde Staten"}
+  "usa": {"english": "United States", "dutch": "Verenigde Staten"},
+  "wales": {"english": "Wales", "dutch": "Wales"}
 }
