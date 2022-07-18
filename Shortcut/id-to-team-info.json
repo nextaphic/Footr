@@ -15,6 +15,7 @@
   "15": {"name": "switzerland", "short": "SUI", "fixpath": "Countries/15.json", "db": 1, "tr": 1},
   "16": {"name": "mexico", "short": "MEX", "fixpath": "Countries/16.json", "db": 1, "tr": 1},
   "17": {"name": "southkorea", "short": "KOR", "fixpath": "Countries/17.json", "db": 1, "tr": 1},
+  "20": {"name": "australia", "short": "AUS", "fixpath": "Countries/20.json", "db": 1, "tr": 1},
   "21": {"name": "denmark", "short": "DEN", "fixpath": "Countries/21.json", "db": 1, "tr": 1},
   "22": {"name": "iran", "short": "IRN", "fixpath": "Countries/22.json", "db": 1, "tr": 1},
   "23": {"name": "saudiarabia", "short": "KSA", "fixpath": "Countries/23.json", "db": 1, "tr": 1},
@@ -23,7 +24,9 @@
   "26": {"name": "argentina", "short": "ARG", "fixpath": "Countries/26.json", "db": 1, "tr": 1},
   "27": {"name": "portugal", "short": "POR", "fixpath": "Countries/27.json", "db": 1, "tr": 1},
   "28": {"name": "tunisia", "short": "TUN", "fixpath": "Countries/28.json", "db": 1, "tr": 1},
+  "29": {"name": "costarica", "short": "CRC", "fixpath": "Countries/29.json", "db": 1, "tr": 1},
   "31": {"name": "morocco", "short": "MAR", "fixpath": "Countries/31.json", "db": 1, "tr": 1},
+  "767": {"name": "wales", "short": "WAL", "fixpath": "Countries/767.json", "db": 1, "tr": 1},
   "1118": {"name": "netherlands", "short": "NED", "fixpath": "Countries/1118.json", "db": 1, "tr": 1},
   "1504": {"name": "ghana", "short": "GHA", "fixpath": "Countries/1504.json", "db": 1, "tr": 1},
   "1530": {"name": "cameroon", "short": "CMR", "fixpath": "Countries/1530.json", "db": 1, "tr": 1},
@@ -31,12 +34,6 @@
   "2382": {"name": "ecuador", "short": "ECU", "fixpath": "Countries/2382.json", "db": 1, "tr": 1},
   "2384": {"name": "usa", "short": "USA", "fixpath": "Countries/2384.json", "db": 1, "tr": 1},
   "5529": {"name": "canada", "short": "CAN", "fixpath": "Countries/5529.json", "db": 1, "tr": 1},
-  
-  
-  "767": {"name": "wales", "short": "WAL", "fixpath": "Countries/767.json", "db": 1, "tr": 1},
-  "20": {"name": "australia", "short": "AUS", "fixpath": "Countries/20.json", "db": 1, "tr": 1},
-  "29": {"name": "costarica", "short": "CRC", "fixpath": "Countries/29.json", "db": 1, "tr": 1},
-  
   
   "BELGIUM": "JUPILER PRO LEAGUE",
   "260": {"name": "OH Leuven", "short": "OHL", "fixpath": "Belgium/260.json", "db": 0, "tr": 0},
