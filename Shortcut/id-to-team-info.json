@@ -32,6 +32,12 @@
   "2384": {"name": "usa", "short": "USA", "fixpath": "Countries/2384.json", "db": 1, "tr": 1},
   "5529": {"name": "canada", "short": "CAN", "fixpath": "Countries/5529.json", "db": 1, "tr": 1},
   
+  
+  "767": {"name": "wales", "short": "WAL", "fixpath": "Countries/767.json", "db": 1, "tr": 1},
+  "20": {"name": "australia", "short": "AUS", "fixpath": "Countries/20.json", "db": 1, "tr": 1},
+  "29": {"name": "costarica", "short": "CRC", "fixpath": "Countries/29.json", "db": 1, "tr": 1},
+  
+  
   "BELGIUM": "JUPILER PRO LEAGUE",
   "260": {"name": "OH Leuven", "short": "OHL", "fixpath": "Belgium/260.json", "db": 0, "tr": 0},
   "261": {"name": "Westerlo", "short": "WES", "fixpath": "Belgium/261.json", "db": 0, "tr": 0},
