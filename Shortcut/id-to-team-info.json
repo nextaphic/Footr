@@ -1,5 +1,8 @@
 {
   "LEGEND": "db = logo is stored on github, tr = translation must be used for team name (name is the key)",
+  
+  "OTHER": "PLACEHOLDER IDS",
+  "0": {"name": "To be determined", "short": "TBD", "fixpath": "", "db": 1, "tr": 0},
 
   "COUNTRIES": "WORLD CUP 2022",
   "1": {"name": "belgium", "short": "BEL", "fixpath": "Countries/1.json", "db": 1, "tr": 1},
