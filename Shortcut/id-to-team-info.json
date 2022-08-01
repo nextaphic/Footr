@@ -53,7 +53,7 @@
   "741": {"name": "Cercle Brugge", "short": "CER", "fixpath": "Belgium/741.json", "db": 0, "tr": 0},
   "742": {"name": "KRC Genk", "short": "GNK", "fixpath": "Belgium/742.json", "db": 0, "tr": 0},
   "1393": {"name": "Union", "short": "USG", "fixpath": "Belgium/1393.json", "db": 0, "tr": 0},
-  "6223": {"name": "Seraing", "short": "SER", "fixpath": "Belgium/6223.json", "db": 0, "tr": 0},
+  "10244": {"name": "Seraing", "short": "SER", "fixpath": "Belgium/10244.json", "db": 0, "tr": 0},
   
   "ENGLAND": "PREMIER LEAGUE",
   "33": {"name": "Manchester United", "short": "MUN", "fixpath": "England/33.json", "db": 0, "tr": 0},
