@@ -1,0 +1,43 @@
+{
+  "fixtures": [
+    {
+      "date": "2022-11-23T19:00:00+00:00",
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/1.png"
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/5529.png"
+      }
+    },
+    {
+      "date": "2022-11-27T16:00:00+00:00",
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/3.png"
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/5529.png"
+      }
+    },
+    {
+      "date": "2022-12-01T15:00:00+00:00",
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/5529.png"
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/31.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "fixtures": [
+    {
+      "date": "2022-11-21T19:00:00+00:00",
+      "home": {
+        "id": 2384,
+        "name": "United States",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/2384.png"
+      },
+      "away": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/767.png"
+      }
+    },
+    {
+      "date": "2022-11-25T19:00:00+00:00",
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/10.png"
+      },
+      "away": {
+        "id": 2384,
+        "name": "United States",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/2384.png"
+      }
+    },
+    {
+      "date": "2022-11-29T19:00:00+00:00",
+      "home": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/22.png"
+      },
+      "away": {
+        "id": 2384,
+        "name": "United States",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/2384.png"
+      }
+    }
+  ]
+}

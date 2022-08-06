@@ -1,0 +1,43 @@
+{
+  "fixtures": [
+    {
+      "date": "2022-11-24T13:00:00+00:00",
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/7.png"
+      },
+      "away": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/17.png"
+      }
+    },
+    {
+      "date": "2022-11-28T13:00:00+00:00",
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/17.png"
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/1504.png"
+      }
+    },
+    {
+      "date": "2022-12-02T15:00:00+00:00",
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/17.png"
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https:\/\/media.api-sports.io\/football\/teams\/27.png"
+      }
+    }
+  ]
+}
