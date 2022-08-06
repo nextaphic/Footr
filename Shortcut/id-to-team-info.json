@@ -4,8 +4,8 @@
         "name = team name",
         "short = short team name",
         "options = [fi,db,tr]",
-        "   → fi: is supported and has fixtures stored via path /fixtures/{id}.json",
-        "   → db: logo is stored on github",
+        "   → fi: is supported and has fixtures stored on github via path /Fixtures/{id}.json",
+        "   → db: logo is stored on github via path /Logos/{id}.png",
         "   → tr: translation must be used for team name (name is the key)"
     ],
     
