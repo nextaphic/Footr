@@ -44,7 +44,7 @@
     "5529": {"name": "canada", "short": "CAN", "options": [1,1,1]},
     
     "BELGIUM": "JUPILER PRO LEAGUE",
-    "260": {"name": "OH Leuven", "short": "OHL", "options": [1,0,0]},
+    "260": {"id": 260, "name": "OH Leuven", "short": "OHL", "options": [1,0,0]},
     "261": {"name": "Westerlo", "short": "WES", "options": [1,0,0]},
     "266": {"name": "KV Mechelen", "short": "KVM", "options": [1,0,0]},
     "554": {"name": "Anderlecht", "short": "AND", "options": [1,0,0]},
