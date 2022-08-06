@@ -11,7 +11,7 @@
   "Sunday": {"english": "Sunday", "dutch": "Zondag"},
   "Tomorrow": {"english": "Tomorrow", "dutch": "Morgen"},
   
-  "Group": {"english": "Group", "dutch": "Groep"},
+  "Countdown": {"english": "[d] days to go", "dutch": "Nog [d] dagen"},
   "No upcoming": {"english": "No upcoming games", "dutch": "Geen volgende wedstrijden"},
   
   "8th Finals": {"english": "Round of 16", "dutch": "Achtste finale"},
