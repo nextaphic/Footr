@@ -1,13 +1,8 @@
-{
-  "closed-tournaments": ["worldcup"],
-  "worldcup": [1, 2, 3, 6, 7, 9, 10, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 31, 1118, 1504, 1530, 1569, 2382, 2384, 5529],
-  
-  "current-version": "v1.0.0",
+{  
+  "current-version": "v1.0.1",
   "stop-older-versions": "true",
   "notification": {
     "title": "New update available",
     "text": "Open the Footr App to download the newest update."
-  },
-  
-  "supported-devices": ["640x1136", "750x1334", "1242x2208", "1080x1920", "1125x2436", "828x1792", "1242x2688", "1170x2532", "1284x2778", "1080x2340"]
+  }
 }
