@@ -108,5 +108,27 @@
     "727": {"name": "Osasuna", "short": "OSA", "id": 727, "options": [1,0,0]},
     "728": {"name": "Rayo Vallecano", "short": "RAY", "id": 728, "options": [1,0,0]},
     "797": {"name": "Elche", "short": "ELC", "id": 797, "options": [1,0,0]}, 
-    "798": {"name": "Mallorca", "short": "MLL", "id": 798, "options": [1,0,0]}
+    "798": {"name": "Mallorca", "short": "MLL", "id": 798, "options": [1,0,0]},
+    
+    "ITALY": "SERIE A",
+    "487": {"name": "Lazio", "short": "LAZ", "id": 487, "options": [1,0,0]},
+    "488": {"name": "Sassuolo", "short": "SAS", "id": 488, "options": [1,0,0]},
+    "489": {"name": "Milan", "short": "ACM", "id": 489, "options": [1,0,0]},
+    "492": {"name": "Napoli", "short": "NAP", "id": 492, "options": [1,0,0]},
+    "494": {"name": "Udinese", "short": "UDI", "id": 494, "options": [1,0,0]},
+    "496": {"name": "Juventus", "short": "JUV", "id": 496, "options": [1,0,0]},
+    "497": {"name": "Roma", "short": "ROM", "id": 497, "options": [1,0,0]},
+    "498": {"name": "Sampdoria", "short": "SAM", "id": 498, "options": [1,0,0]},
+    "499": {"name": "Atalanta", "short": "ATA", "id": 499, "options": [1,0,0]},
+    "500": {"name": "Bologna", "short": "BOL", "id": 500, "options": [1,0,0]},
+    "502": {"name": "Fiorentina", "short": "FIO", "id": 502, "options": [1,0,0]},
+    "503": {"name": "Torino", "short": "TNO", "id": 503, "options": [1,0,0]},
+    "504": {"name": "Hellas Verona", "short": "VER", "id": 504, "options": [1,0,0]},
+    "505": {"name": "Inter", "short": "INT", "id": 505, "options": [1,0,0]},
+    "511": {"name": "Empoli", "short": "EMP", "id": 511, "options": [1,0,0]},
+    "514": {"name": "Salernitana", "short": "SAL", "id": 514, "options": [1,0,0]},
+    "515": {"name": "Spezia", "short": "SPZ", "id": 515, "options": [1,0,0]},
+    "520": {"name": "Cremonese", "short": "CRE", "id": 520, "options": [1,0,0]}, 
+    "867": {"name": "Lecce", "short": "LEC", "id": 867, "options": [1,0,0]},
+    "1579": {"name": "Monza", "short": "MON", "id": 1579, "options": [1,0,0]}
 }
