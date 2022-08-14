@@ -1,5 +1,5 @@
 {  
-  "current-version": "v1.0.2",
+  "current-version": "v1.0.3",
   "stop-older-versions": "true",
   "notification": {
     "title": "New update available",
