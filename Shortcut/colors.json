@@ -15,7 +15,7 @@
   "P": "#751a46",
   
   "filters": "blur(32px) saturate(172%) contrast(120%)",
-  "transform": "scale(1.17)",
+  "transform": "scale(1.1)",
   
   "default": {
     "DM": {
