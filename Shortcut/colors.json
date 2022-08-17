@@ -17,6 +17,7 @@
   "filters": "blur(32px) saturate(172%) contrast(120%)",
   "filters-without-blur": "saturate(172%) contrast(120%)",
   "transform": "scale(1.11)",
+  "blur": 32,
   
   "default": {
     "DM": {
