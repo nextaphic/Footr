@@ -6,11 +6,7 @@
     "text": "Open the Footr App to download the newest update."
   },
   
-  "amount-of-options": {
-    "language": 2,
-    "wallpaper": 2,
-    "position": 3,
-    "date": 2,
-    "font": 5
+  "options": {
+    "font": [1,2,3,4,5]
   }
 }
