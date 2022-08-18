@@ -17,8 +17,9 @@ const INFO_HEIGHT = height * 72/2072;
 let CONT_Y = 0;
 if (POSITION == 1 && !IS_MATCHDAY) { CONT_Y = height * 1650/2072; }
 else if (POSITION == 1 && IS_MATCHDAY) { CONT_Y = height * 1650/2072 - INFO_HEIGHT; }
+else if (POSITION == 2) { CONT_Y = height * 575/2072; }
 else if (POSITION == 3) { CONT_Y = height * 718/2072; }
-else { CONT_Y = height * 575/2072; } // POSITION == 2, position number 2 is default
+else { CONT_Y = height * 575/2072; } // Position number 2 is default
 
 // Is Touch ID device?
 let IS_TOUCHID = false;
@@ -63,5 +64,6 @@ else if (FONT == 2) { MATCHDAY_WIDTH = (1000/138) * MATCHDAY_HEIGHT; }
 else if (FONT == 3) { MATCHDAY_HEIGHT = Math.round((72/74) * LOGO_SIZE); MATCHDAY_WIDTH = (895/200) * MATCHDAY_HEIGHT; }
 else if (FONT == 4) { MATCHDAY_WIDTH = (1000/140) * MATCHDAY_HEIGHT; }
 else if (FONT == 5) { MATCHDAY_WIDTH = (1000/131) * MATCHDAY_HEIGHT; }
+else { MATCHDAY_WIDTH = (1000/149) * MATCHDAY_HEIGHT; } // Font number 1 is default
 const MATCHDAY_X = Math.round(CONT_X + (CONT_WIDTH - MATCHDAY_WIDTH) / 2);
 const MATCHDAY_Y = Math.round(CONT_Y + (CONT_HEIGHT - MATCHDAY_HEIGHT) / 2);
