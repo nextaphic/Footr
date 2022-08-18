@@ -17,8 +17,8 @@ const INFO_HEIGHT = height * 72/2072;
 let CONT_Y = 0;
 if (POSITION == 1 && !IS_MATCHDAY) { CONT_Y = height * 1650/2072; }
 else if (POSITION == 1 && IS_MATCHDAY) { CONT_Y = height * 1650/2072 - INFO_HEIGHT; }
-else if (POSITION == 2) { CONT_Y = height * 575/2072; }
 else if (POSITION == 3) { CONT_Y = height * 718/2072; }
+else { CONT_Y = height * 575/2072; } // POSITION == 2, position number 2 is default
 
 // Is Touch ID device?
 let IS_TOUCHID = false;
