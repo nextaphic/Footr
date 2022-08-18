@@ -4,9 +4,5 @@
   "notification": {
     "title": "New update available",
     "text": "Open the Footr App to download the newest update."
-  },
-  
-  "options": {
-    "font": [1,2,3,4,5]
   }
 }
