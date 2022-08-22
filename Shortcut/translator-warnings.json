@@ -30,5 +30,9 @@
   "wrong-color-code": {
     "1": "Please enter a correct color code for '[REPITEM]'. Footr will now stop.",
     "2": "Geef een correcte kleurencode in voor '[REPITEM]'. Footr zal nu stoppen."
+  },
+  "unsupported-device": {
+    "1": "Your device is not supported. Supported devices are the iPhone 6s and newer. Footr will now stop.",
+    "2": "Je toestel wordt niet ondersteund. Ondersteunde toestellen zijn de iPhone 6s en nieuwe. Footr zal nu stoppen."
   }
 }
