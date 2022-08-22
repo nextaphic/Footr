@@ -1,4 +1,7 @@
 {  
   "current-version": 104,
-  "lowest-supported-version": 104
+  "lowest-supported-version": 104,
+  
+  "languages": {"1": "English", "2": "Dutch"},
+  "default-language": "1"
 }
