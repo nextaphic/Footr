@@ -1,6 +1,6 @@
 {  
-  "current-version": "v1.0.3",
-  "stop-older-versions": "true",
+  "current-version": 103,
+  "minimum-version": 103,
   "notification": {
     "title": {"1": "New update available", "2": "Er is een nieuwe update beschikbaar"},
     "text": {"1": "Open the Footr App to download the newest version of the Footr Shortcut.", "2": "Open de Footr App om de nieuwste versie van de Footr Shortcut te downloaden."}
