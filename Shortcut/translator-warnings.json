@@ -12,7 +12,7 @@
     "2": "Update de Footr Shortcut naar de laatste versie als je deze datum optie wilt gebruiken. Tot dan zal het standaard datum formaat gebruikt worden."
   },
   "preferences-saved": {
-    "1": "✓ Your new preferences are saved.",
+    "1": "✓ 𝗗𝗼𝗻𝗲\nYour new preferences are saved.",
     "2": "✓ Je nieuwe voorkeuren zijn opgeslagen."
   },
   "update-title": {
@@ -22,5 +22,9 @@
   "update-body": {
     "1": "Open the Footr App to download the newest version of the Footr Shortcut.",
     "2": "Open de Footr App om de nieuwste versie van de Footr Shortcut te downloaden."
+  },
+  "no-team": {
+    "1" : "Please enter a correct team id. You can find all ids on nextaphic.com/teams. Footr will now stop.",
+    "2" : "Geef een correcte team id in. Je kan de lijst met alle id's vinden op nextaphic.com/teams. Footr zal nu stoppen."
   }
 }
