@@ -1,7 +1,4 @@
-{
-    "languages": {"1": "English", "2": "Dutch"},
-    "default": "1",
-    
+{   
     "Monday": {"1": "Monday", "2": "Maandag"},
     "Tuesday": {"1": "Tuesday", "2": "Dinsdag"},
     "Wednesday": {"1": "Wednesday", "2": "Woensdag"},
@@ -13,12 +10,6 @@
     
     "Countdown": {"1": "[d] days to go", "2": "Nog [d] dagen"},
     "No upcoming": {"1": "No upcoming games", "2": "Geen volgende wedstrijden"},
-    
-    "8th Finals": {"1": "Round of 16", "2": "Achtste finale"},
-    "Quarter-finals": {"1": "Quarter-final", "2": "Kwartfinale"},
-    "Semi-finals": {"1": "Semi-final", "2": "Halve finale"},
-    "Final": {"1": "Final", "2": "Finale"},
-    "3rd Place Final": {"1": "Final (3rd place)", "2": "Kleine finale"},
     
     "argentina": {"1": "Argentina", "2": "Argentinië"},
     "australia": {"1": "Australia", "2": "Australië"},
