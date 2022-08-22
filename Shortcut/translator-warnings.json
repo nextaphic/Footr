@@ -1,3 +1,14 @@
 {
-  "remove": {"1": "All files associated with Footr are now removed.", "2": "Alle bestanden die geassocieerd zijn met Footr zijn nu verwijderd."}
+  "remove": {
+    "1": "All files associated with Footr are now removed.",
+    "2": "Alle bestanden die geassocieerd zijn met Footr zijn nu verwijderd."
+  },
+  "update-to-use-wallpaper-option": {
+    "1": "Update the Footr Shortcut to the latest version if you want to use this wallpaper option. Until then, the default wallpaper will be used.",
+    "2": "Update de Footr Shortcut naar de laatste versie als je deze achtegrond optie wilt gebruiken. Tot dan zal de standaard achtegrond gebruikt worden."
+  },
+  "update-to-use-date-option": {
+    "1": "Update the Footr Shortcut to the latest version if you want to use this date option. Until then, the default date format will be used.",
+    "2": "Update de Footr Shortcut naar de laatste versie als je deze datum optie wilt gebruiken. Tot dan zal het standaard datum formaat gebruikt worden."
+  }
 }
