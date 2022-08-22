@@ -34,5 +34,9 @@
   "unsupported-device": {
     "1": "Your device is not supported. Supported devices are the iPhone 6s and newer. Footr will now stop.",
     "2": "Je toestel wordt niet ondersteund. Ondersteunde toestellen zijn de iPhone 6s en nieuwe. Footr zal nu stoppen."
+  },
+  "add-wallpaper": {
+    "1": "Please add at least 1 wallpaper to an album called Footr in the Photos app. Footr will now stop.",
+    "2": "Voeg minstens 1 achtergrond toe aan een album met de naam Footr in de Foto's app. Footr zal nu stoppen."
   }
 }
