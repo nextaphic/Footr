@@ -26,5 +26,9 @@
   "no-team": {
     "1" : "Please enter a correct team id. You can find all ids on nextaphic.com/teams. Footr will now stop.",
     "2" : "Geef een correcte team id in. Je kan de lijst met alle id's vinden op nextaphic.com/teams. Footr zal nu stoppen."
+  },
+  "wrong-color-code": {
+    "1": "Please enter a correct hex, rgb or rgba color code for '[REPITEM]'. Footr will now stop.",
+    "2": "Geef een correcte hex, rgb of rgba kleurencode in voor '[REPITEM]'. Footr zal nu stoppen."
   }
 }
