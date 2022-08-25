@@ -19,14 +19,6 @@
     "1": "✓ 𝗗𝗼𝗻𝗲\nYour preferences are now updated.",
     "2": "✓ 𝗚𝗲𝗹𝘂𝗸𝘁\nJe voorkeuren zijn nu aangepast."
   },
-  "update-title": {
-    "1": "New update available",
-    "2": "Er is een nieuwe update beschikbaar"
-  },
-  "update-body": {
-    "1": "Open the Footr App to download the newest version of the Footr Shortcut.",
-    "2": "Open de Footr App om de nieuwste versie van de Footr Shortcut te downloaden."
-  },
   "no-team": {
     "1" : "Please enter a correct team id. You can find all ids on nextaphic.com/teams. Footr will now stop.",
     "2" : "Geef een correcte team id in. Je kan de lijst met alle id's vinden op nextaphic.com/teams. Footr zal nu stoppen."
