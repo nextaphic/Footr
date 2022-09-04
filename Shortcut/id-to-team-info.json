@@ -50,7 +50,7 @@
     "260": {"name": "OH Leuven", "short": "OHL", "id": 260, "options": [1,0,0]},
     "261": {"name": "Westerlo", "short": "WES", "id": 261, "options": [1,0,0]},
     "266": {"name": "KV Mechelen", "short": "KVM", "id": 266, "options": [1,0,0]},
-    "554": {"name": "Anderlecht", "short": "AND", "id": 554, "options": [1,0,0]},
+    "554": {"name": "RSC Anderlecht", "short": "AND", "id": 554, "options": [1,0,0]},
     "569": {"name": "Club Brugge", "short": "CLU", "id": 569, "options": [1,0,0]},
     "600": {"name": "Zulte Waregem", "short": "ZWA", "id": 600, "options": [1,0,0]},
     "624": {"name": "KV Oostende", "short": "KVO", "id": 624, "options": [1,0,0]},
@@ -63,7 +63,7 @@
     "740": {"name": "Antwerp", "short": "ANT", "id": 740, "options": [1,0,0]},
     "741": {"name": "Cercle Brugge", "short": "CER", "id": 741, "options": [1,1,0]},
     "742": {"name": "KRC Genk", "short": "GNK", "id": 742, "options": [1,0,0]},
-    "1393": {"name": "Union", "short": "USG", "id": 1393, "options": [1,0,0]},
+    "1393": {"name": "Union SG", "short": "USG", "id": 1393, "options": [1,0,0]},
     "10244": {"name": "Seraing", "short": "SER", "id": 10244, "options": [1,0,0]},
     
     "ENGLAND": "PREMIER LEAGUE",
