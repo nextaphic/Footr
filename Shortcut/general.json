@@ -1,13 +1,13 @@
 {  
-  "current-version": 104,
-  "lowest-supported-version": 104,
+  "current-version": 105,
+  "lowest-supported-version": 105,
   
-  "current-version-text": "v1.0.4",
+  "current-version-text": "v1.0.5",
   "outdated-version-extra-text": "",
   
   "locallogodb-url": "https://raw.githubusercontent.com/nextaphic/Footr/main/Logos/[id].png",
   "logodb-url": "https://media.api-sports.io/football/teams/[id].png",
   
-  "languages": {"1": "English", "2": "Dutch"},
+  "languages": {"1": "English (US)", "2": "Dutch", "3": "English (UK)"},
   "default-language": "1"
 }
