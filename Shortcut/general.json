@@ -5,7 +5,8 @@
   "current-version-text": "v1.0.4",
   "outdated-version-extra-text": "",
   
-  "locallogodb-url": "https://raw.githubusercontent.com/nextaphic/Footr/main/Logos/[id].png"
+  "locallogodb-url": "https://raw.githubusercontent.com/nextaphic/Footr/main/Logos/[id].png",
+  "logodb-url": "https://media.api-sports.io/football/teams/[id].png",
   
   "languages": {"1": "English", "2": "Dutch"},
   "default-language": "1"
