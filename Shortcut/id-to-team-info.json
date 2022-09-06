@@ -146,7 +146,7 @@
     "169": {"name": "Eintracht Frankfurt", "short": "SGE", "id": 169, "options": [1,0,0]},
     "170": {"name": "FC Augsburg", "short": "FCA", "id": 170, "options": [1,0,0]},
     "172": {"name": "VfB Stuttgart", "short": "VFB", "id": 172, "options": [1,0,0]},
-    "173": {"name": "RB Leipzig", "short": "RBL", "id": 173, "options": [1,0,0]},
+    "173": {"name": "RB Leipzig", "short": "RBL", "id": 173, "options": [1,1,0]},
     "174": {"name": "FC Schalke 04", "short": "S04", "id": 174, "options": [1,0,0]},
     "176": {"name": "VfL Bochum 1848", "short": "BOC", "id": 176, "options": [1,0,0]},
     "182": {"name": "Union Berlin", "short": "FCU", "id": 182, "options": [1,0,0]},
