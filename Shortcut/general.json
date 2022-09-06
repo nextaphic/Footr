@@ -5,6 +5,8 @@
   "current-version-text": "v1.0.4",
   "outdated-version-extra-text": "",
   
+  "locallogodb-url": "https://raw.githubusercontent.com/nextaphic/Footr/main/Logos/[id].png"
+  
   "languages": {"1": "English", "2": "Dutch"},
   "default-language": "1"
 }
