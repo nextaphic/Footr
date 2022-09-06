@@ -6,7 +6,7 @@
         "options = [fi,db,tr]",
         "   → fi: is supported and has fixtures stored on github via path /Fixtures/{id}.json",
         "   → db: logo is stored on github via path /Logos/{id}.png",
-        "   → tr: translation must be used for team name (name is the key)"
+        "   → tr: translation must be used for team name (id is the key)"
     ],
     
     "OTHER": "PLACEHOLDER IDS",
