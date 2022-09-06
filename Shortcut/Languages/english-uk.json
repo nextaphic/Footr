@@ -1,1 +1,57 @@
-{}
+{
+    "tomorrow": "Tomorrow",
+    "days": {
+      "1": "Sunday",
+      "2": "Monday",
+      "3": "Tuesday",
+      "4": "Wednesday",
+      "5": "Thursday",
+      "6": "Friday",
+      "7": "Saturday"
+    },
+    
+    "countdown": "[d] days to go",
+    "no-upcoming": "No upcoming games",
+  
+  
+    "no-team": "Please enter a correct team id. You can find all ids on nextaphic.com/teams. Footr will now stop.",
+    "wrong-color-code": "Please enter a correct colour code for '[REPITEM]'. Footr will now stop.",
+    "unsupported-device": "Your device is not supported. Supported devices are the iPhone 6s and newer. Footr will now stop.",
+    "add-wallpaper": "Please add at least 1 wallpaper to an album called Footr in the Photos app. Footr will now stop.",
+    
+    
+    "teams": {
+        "26": "Argentina",
+        "20": "Australia",
+        "1": "Belgium",
+        "6": "Brazil",
+        "1530": "Cameroon",
+        "5529": "Canada",
+        "29": "Costa Rica",
+        "3": "Croatia",
+        "21": "Denmark",
+        "2382": "Ecuador",
+        "10": "England",
+        "2": "France",
+        "25": "Germany",
+        "1504": "Ghana",
+        "22": "Iran",
+        "12": "Japan",
+        "16": "Mexico",
+        "31": "Morocco",
+        "1118": "Netherlands",
+        "24": "Poland",
+        "27": "Portugal",
+        "1569": "Qatar",
+        "23": "Saudi Arabia",
+        "13": "Senegal",
+        "14": "Serbia",
+        "17": "South Korea",
+        "9": "Spain",
+        "15": "Switzerland",
+        "28": "Tunisia",
+        "2384": "United States",
+        "7": "Uruguay",
+        "767": "Wales"
+    }
+}
