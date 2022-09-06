@@ -14,10 +14,10 @@
     "no-upcoming": "Geen volgende wedstrijden",
   
   
-    "no-team": "",
-    "wrong-color-code": "",
-    "unsupported-device": "",
-    "add-wallpaper": "",
+    "no-team": "Geef een correcte team id in. Je kan de lijst met alle id's vinden op nextaphic.com/teams. Footr zal nu stoppen.",
+    "wrong-color-code": "Geef een correcte kleurencode in voor '[REPITEM]'. Footr zal nu stoppen.",
+    "unsupported-device": "Je toestel wordt niet ondersteund. Ondersteunde toestellen zijn de iPhone 6s en nieuwe. Footr zal nu stoppen.",
+    "add-wallpaper": "Voeg minstens 1 achtergrond toe aan een album met de naam Footr in de Foto's app. Footr zal nu stoppen.",
     
     
     "teams": {
