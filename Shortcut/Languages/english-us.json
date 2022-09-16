@@ -17,7 +17,7 @@
     "no-team": "Please enter a correct team id. You can find all ids on nextaphic.com/teams. Footr will now stop.",
     "wrong-color-code": "Please enter a correct color code for '[REPITEM]'. Footr will now stop.",
     "unsupported-device": "Your device is not supported. Supported devices are the iPhone 6s and newer. Footr will now stop.",
-    "add-wallpaper": "Please add at least 1 wallpaper to an album called Footr in the Photos app. Footr will now stop.",
+    "add-wallpaper": "Please add at least 1 wallpaper to an album called '[NAMEALBUM]' in the Photos app. Footr will now stop.",
     
     
     "teams": {
