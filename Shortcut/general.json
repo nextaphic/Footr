@@ -1,8 +1,8 @@
 {  
-  "current-version": 105,
-  "lowest-supported-version": 105,
+  "current-version": 110,
+  "lowest-supported-version": 110,
   
-  "current-version-text": "v1.0.5",
+  "current-version-text": "v1.1.0",
   "outdated-version-extra-text": "",
   
   "locallogodb-url": "https://raw.githubusercontent.com/nextaphic/Footr/main/Logos/[id].png",
