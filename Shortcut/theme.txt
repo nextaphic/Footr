@@ -37,9 +37,11 @@ else if (width == 1080 && height == 1920) { FONTSIZE = 40; } // iPhone 8 Plus
 else if (width == 1125 && height == 2436) { FONTSIZE = 43; } // iPhone X, iPhone XS, iPhone 11 Pro
 else if (width == 828 && height == 1792) { FONTSIZE = 32; } // iPhone XR, iPhone 11
 else if (width == 1242 && height == 2688) { FONTSIZE = 43; } // iPhone XS Max, iPhone 11 Pro Max
-else if (width == 1170 && height == 2532) { FONTSIZE = 43; } // iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro
-else if (width == 1284 && height == 2778) { FONTSIZE = 43; } // iPhone 12 Pro Max, iPhone 13 Pro Max
+else if (width == 1170 && height == 2532) { FONTSIZE = 43; } // iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, iPhone 14, 
+else if (width == 1284 && height == 2778) { FONTSIZE = 43; } // iPhone 12 Pro Max, iPhone 13 Pro Max, iPhone 14 Plus
 else if (width == 1080 && height == 2340) { FONTSIZE = 42; } // iPhone 12 mini, iPhone 13 mini
+else if (width == 1179 && height == 2556) { FONTSIZE = 42; } // iPhone 14 Pro
+else if (width == 1290 && height == 2796) { FONTSIZE = 42; } // iPhone 14 Pro Max
 FONTSIZE_SMALL = (33/35) * FONTSIZE;
 
 // Calc other variables
